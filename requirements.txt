@@ -1,0 +1,2 @@
+# No external dependencies - uses Node.js built-in modules
+# Just make sure you have Node.js installed
